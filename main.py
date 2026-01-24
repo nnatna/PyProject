@@ -1,4 +1,5 @@
 import invoice
+#00
 #01
 No1 = "01"
 Pro1 = "Pen"
